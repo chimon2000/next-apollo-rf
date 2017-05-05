@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "apollo": "^0.2.2",
+    "global": "^4.3.2",
+    "next": "^2.3.1",
+    "react": "^15.5.4",
+    "react-apollo": "^1.2.0",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "redux-form": "^6.6.3"
+  }
+}
